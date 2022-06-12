@@ -1,7 +1,7 @@
 /* tslint:disable */
 require("./SvgGhostWebPart.module.css");
 const styles = {
-  svgGhost: 'svgGhost_d83d3e0e'
+  svgGhost: 'svgGhost_36cf5f20'
 };
 
 export default styles;
