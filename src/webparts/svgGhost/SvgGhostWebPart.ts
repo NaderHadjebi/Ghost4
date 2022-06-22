@@ -112,14 +112,6 @@ export default class SvgGhostWebPartWebPart extends BaseClientSideWebPart<ISvgGh
       inkscape:label="Belt"
       style="display:inline"
       transform="translate(-83.828052,-24.594358)">
-    <!--<rect
-        style="fill:${this.properties.colorBelt};fill-opacity:1;stroke:none;stroke-width:0.25898856;stroke-opacity:1"
-        id="rect4567"
-        width="29.77"
-        height="4.6772165"
-        x="192.605003"
-        y="127.43362"
-        ry="0.80319941" />-->
     <path
         style="display:inline;fill:${this.properties.colorBuckle};fill-opacity:1;stroke:#000000;stroke-width:6;stroke-opacity:1"
         d="M72.26,141.77c-1.73-23.9,22.54-43.26,13.37-71.49c-13.97-43.01,43.2-63.26,66.86-4.11s7.71,73.54,7.71,73.54
@@ -128,9 +120,7 @@ export default class SvgGhostWebPartWebPart extends BaseClientSideWebPart<ISvgGh
         c-2.57,2.57-12.86,21.17-12.86,21.17V141.77z"
         id="rect4575"
         inkscape:connector-curvature="0" />
-        <!--<ellipse transform="matrix(0.9603 -0.2788 0.2788 0.9603 -16.4983 32.7989)" class="st1" cx="107.06" cy="74.4" rx="9.26" ry="18.51"/>
-<ellipse transform="matrix(0.944 -0.3298 0.3298 0.944 -15.2005 46.3967)" class="st1" cx="129.13" cy="67.99" rx="9.26" ry="18.51"/>-->
-  --></g>
+        </g>
             <g
                 inkscape:groupmode="layer"
                 id="layer14"
@@ -215,15 +205,9 @@ export default class SvgGhostWebPartWebPart extends BaseClientSideWebPart<ISvgGh
   }
 
   private resetToDefault(): void {
-    this.properties.colorSkin = '#ffb900';
     this.properties.colorHair = '#262626';
-    this.properties.colorPants = '#d83b01';
     this.properties.colorBelt = '#ffc929';
     this.properties.colorBuckle = '#ffb900';
-    this.properties.colorCape = '#003c6c';
-    this.properties.colorDiaper = '#262626';
-    this.properties.colorShoes = '#0078d7';
-    this.properties.colorShirt = '#0078d7';
     this.properties.colorLogo = '#ffffff';
   }
 
