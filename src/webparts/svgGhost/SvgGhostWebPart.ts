@@ -17,15 +17,9 @@ import { PropertyFieldSpinButton } from '@pnp/spfx-property-controls/lib/Propert
 
 
 export interface ISvgGhostWebPartProps {
-  colorPants: string;
   colorHair: string;
   colorBelt: string;
   colorBuckle: string;
-  colorSkin: string;
-  colorCape: string;
-  colorDiaper: string;
-  colorShoes: string;
-  colorShirt: string;
   colorLogo: string;
   height: number;
 }
@@ -98,7 +92,7 @@ export default class SvgGhostWebPartWebPart extends BaseClientSideWebPart<ISvgGh
                 <dc:title>SharePoint Patterns and Practices Ghost</dc:title>
                 <dc:creator>
                   <cc:Agent>
-                    <dc:title>Chris Kent</dc:title>
+                    <dc:title>Nader Hadjebi</dc:title>
                   </cc:Agent>
                 </dc:creator>
                 <dc:rights>
