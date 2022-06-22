@@ -1,10 +1,10 @@
-# Dynamic Scalable Vector Graphics (SVG) image using propertie
+# Dynamic Scalable Vector Graphics (SVG) image using properties
 
 ## Summary
 
 An SPFx web part that displays a Scalable Vector Graphics (SVG) image using properties to customize how it is rendered. The web part utilizes the PnP SPFx Property Controls package (specifially the SpinButton and ColorPicker) to set these properties.
 
-![picture of the web part in action](./assets/js-propertycontrols-svg.gif)
+![picture of the web part in action](./assets/ghost2022-05-12_11-05-49.gif)
 
 
 ## Compatibility
@@ -27,20 +27,19 @@ An SPFx web part that displays a Scalable Vector Graphics (SVG) image using prop
 
 * [SharePoint Framework](https://docs.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview)
 * [sp-dev-fx-property-controls](https://github.com/pnp/sp-dev-fx-property-controls)
-* [PnP Man](https://github.com/thechriskent/PnPMan)
+* [PnP Ghost](https://github.com/nader2015/ghostNew)
 
 ## Solution
 
 Solution|Author(s)
 --------|---------
-js-propertycontrols-svg | Chris Kent ([thechriskent.com](https://thechriskent.com), [@thechriskent](https://twitter.com/thechriskent))
+js-propertycontrols-svgGhost | Nader Hadjebi ([naderhadjebi.com](https://www.naderhadjebi.com), [@nader2015](https://twitter.com/nader2015))
 
 ## Version history
 
 Version|Date|Comments
 -------|----|--------
-1.1|December 30, 2021|Update to SPFx 1.13.0
-1.0|November 12, 2017|Initial release
+1.0|May 16, 2022|Initial release
 
 
 
