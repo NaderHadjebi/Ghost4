@@ -27,7 +27,7 @@ An SPFx web part that displays a Scalable Vector Graphics (SVG) image using prop
 
 * [SharePoint Framework](https://docs.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview)
 * [sp-dev-fx-property-controls](https://github.com/pnp/sp-dev-fx-property-controls)
-* [PnP Ghost](https://github.com/nader2015/ghostNew)
+* [PnP Ghost](https://github.com/NaderHadjebi/Ghost4)
 
 ## Solution
 
