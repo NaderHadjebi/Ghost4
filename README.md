@@ -39,7 +39,7 @@ js-propertycontrols-svgGhost | Nader Hadjebi ([naderhadjebi.com](https://www.nad
 
 Version|Date|Comments
 -------|----|--------
-1.0|May 16, 2022|Initial release
+1.0|September 28, 2022|Initial release
 
 
 
