@@ -40,6 +40,7 @@ js-propertycontrols-svgGhost | Nader Hadjebi ([naderhadjebi.com](https://www.nad
 Version|Date|Comments
 -------|----|--------
 1.0|September 28, 2022|Initial release
+1.0.1|August 31, 2026|Minor changes
 
 
 
@@ -62,8 +63,7 @@ This Web Part illustrates the following concepts on top of the SharePoint Framew
 - Using a PropertyFieldSpinButton control
 - Using a PropertyFieldColorPicker control
 
-![picture of the web part in action](./assets/Screenshot 2026-08-31 113354.gif)
-![Screenshot](./assets/Screenshot 2026-08-31 113354.png)
+![Screenshot](https://github.com/NaderHadjebi/Ghost4/blob/main/assets/Screenshot%202026-08-31%20113354.gif)
 
 
 ## Disclaimer
