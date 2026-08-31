@@ -62,6 +62,7 @@ This Web Part illustrates the following concepts on top of the SharePoint Framew
 - Using a PropertyFieldSpinButton control
 - Using a PropertyFieldColorPicker control
 
+![picture of the web part in action](./assets/Screenshot 2026-08-31 113354.png)
 ![Screenshot](./assets/Screenshot 2026-08-31 113354.png)
 
 
