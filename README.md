@@ -55,7 +55,7 @@ Version|Date|Comments
 >  This sample can also be opened with [VS Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview). Visit https://aka.ms/spfx-devcontainer for further instructions.
 
 ## Features
-Displays a Scalable Vector Graphics (SVG) image of the SharePoint Patterns and Practices Super Hero and allows users to customize the colors used and the size of the image through the use of PnP SPFx Property Controls (SpinButton & ColorPicker).
+Displays a Scalable Vector Graphics (SVG) image of the NH Ghost and allows users to customize the colors used and the size of the image through the use of PnP SPFx Property Controls (SpinButton & ColorPicker).
 
 This Web Part illustrates the following concepts on top of the SharePoint Framework:
 
