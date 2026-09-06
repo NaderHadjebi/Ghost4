@@ -2,7 +2,7 @@
 
 ## Summary
 
-An SPFx web part that displays a Scalable Vector Graphics (SVG) image using properties to customize how it is rendered. The web part utilizes the PnP SPFx Property Controls package (specifially the SpinButton and ColorPicker) to set these properties.
+**Note- I have upgraded this project to SPFx 1.23 from this 1.13 version and will be posting that soon (9/6/2026).** An SPFx web part that displays a Scalable Vector Graphics (SVG) image using properties to customize how it is rendered. The web part utilizes the PnP SPFx Property Controls package (specifially the SpinButton and ColorPicker) to set these properties.
 
 ![picture of the web part in action](./assets/ghost2022-05-12_11-05-49.gif)
 
