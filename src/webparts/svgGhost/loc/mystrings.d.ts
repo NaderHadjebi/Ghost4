@@ -1,4 +1,4 @@
-declare interface ISvgHeroWebPartStrings {
+declare interface ISvgGhostWebPartStrings {
   PropertyPaneDescription: string;
   ColorGroupName: string;
   SizeGroupName: string;
@@ -17,7 +17,7 @@ declare interface ISvgHeroWebPartStrings {
   ResetButtonLabel: string;
 }
 
-declare module 'SvgHeroWebPartStrings' {
-  const strings: ISvgHeroWebPartStrings;
+declare module 'SvgGhostWebPartStrings' {
+  const strings: ISvgGhostWebPartStrings;
   export = strings;
 }

@@ -1,6 +1,6 @@
 {
   "$schema": "https://dev.office.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
-  "id": "ea2f4f01-db05-44e9-8900-22d9ef8d632f",
+  "id": "1d1587bc-a302-487a-8956-cbfb180ef4db",
   "alias": "SvgGhostWebPart",
   "componentType": "WebPart",
 
