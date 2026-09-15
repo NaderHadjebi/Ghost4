@@ -70,6 +70,12 @@ This Web Part illustrates the following concepts on top of the SharePoint Framew
 
 ![Screenshot](https://github.com/NaderHadjebi/Ghost4/blob/main/assets/Screenshot%202026-08-31%20113354.gif)
 
+## License
+
+Copyright © 2026 Nader Hadjebi. All rights reserved.
+
+This repository is publicly available for viewing and evaluation. No permission is granted to copy, modify, distribute, sublicense, or create derivative works from this code without prior written permission from the author.
+
 ## Disclaimer
 
 **THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
