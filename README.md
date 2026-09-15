@@ -2,15 +2,15 @@
 
 ## Summary
 
-**Note- I have upgraded this project to SPFx 1.23 from this 1.13 version (9/6/2026) and will be posting that soon .** An SPFx web part that displays a Scalable Vector Graphics (SVG) image using properties to customize how it is rendered. The web part utilizes the PnP SPFx Property Controls package (specifially the SpinButton and ColorPicker) to set these properties.
+An SPFx web part that displays a Scalable Vector Graphics (SVG) image using properties to customize how it is rendered. The web part utilizes the PnP SPFx Property Controls package (specifically the SpinButton and ColorPicker) to set these properties.
 
 ![picture of the web part in action](./assets/ghost2022-05-12_11-05-49.gif)
 
 
 ## Compatibility
 
-![SPFx 1.13.0](https://img.shields.io/badge/SPFx-1.13.0-green.svg) 
-![Node.js v6](https://img.shields.io/badge/Node.js-v14-green.svg) 
+![SPFx 1.23.2](https://img.shields.io/badge/SPFx-1.23.2-green.svg) 
+![Node.js v22](https://img.shields.io/badge/Node.js-v22-green.svg) 
 ![Compatible with SharePoint Online](https://img.shields.io/badge/SharePoint%20Online-Compatible-green.svg)
 ![Compatible with SharePoint 2019](https://img.shields.io/badge/SharePoint%20Server%202019-Incompatible-red.svg)
 ![Does not work with SharePoint 2016 (Feature Pack 2)](https://img.shields.io/badge/SharePoint%20Server%202016%20(Feature%20Pack%202)-Incompatible-red.svg "SharePoint Server 2016 Feature Pack 2 requires SPFx 1.1")
@@ -33,7 +33,7 @@
 
 Solution|Author(s)
 --------|---------
-js-propertycontrols-svgGhost | Nader Hadjebi ([naderhadjebi.com](https://www.naderhadjebi.com), [@nader2015](https://twitter.com/nader2015))
+js-propertycontrols-svgGhost | Nader Hadjebi ([LinkedIn](https://www.linkedin.com/in/nader-hadjebi-6a677a87/), [naderhadjebi.com](https://www.naderhadjebi.com), [@nader2015](https://twitter.com/nader2015))
 
 ## Version history
 
@@ -41,15 +41,14 @@ Version|Date|Comments
 -------|----|--------
 1.0|September 28, 2022|Initial release
 1.0.1|August 31, 2026|Minor changes
-
-
+2.0|September 6, 2026|Upgraded to SPFx 1.23.2; migrated build toolchain from Gulp/Webpack to Heft; fixed legacy naming/config bugs from prior project rename
 
 ## Minimal Path to Awesome
 
 - Clone this repository
 - in the command line run:
   - `npm install`
-  - `gulp serve`
+  - `npm run start`
 - Customize your PnP Hero!
 
 >  This sample can also be opened with [VS Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview). Visit https://aka.ms/spfx-devcontainer for further instructions.
