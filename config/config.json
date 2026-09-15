@@ -2,18 +2,18 @@
   "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
   "version": "2.0",
   "bundles": {
-    "svg-hero-web-part": {
+    "svg-ghost-web-part": {
       "components": [
         {
-          "entrypoint": "./lib/webparts/svgHero/SvgHeroWebPart.js",
-          "manifest": "./src/webparts/svgHero/SvgHeroWebPart.manifest.json"
+          "entrypoint": "./lib/webparts/svgGhost/SvgGhostWebPart.js",
+          "manifest": "./src/webparts/svgGhost/SvgGhostWebPart.manifest.json"
         }
       ]
     }
   },
   "externals": {},
   "localizedResources": {
-    "SvgHeroWebPartStrings": "lib/webparts/svgHero/loc/{locale}.js",
+    "SvgGhostWebPartStrings": "lib/webparts/svgGhost/loc/{locale}.js",
     "PropertyControlStrings": "./node_modules/@pnp/spfx-property-controls/lib/loc/{locale}.js"
   }
 }

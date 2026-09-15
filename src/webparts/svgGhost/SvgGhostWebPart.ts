@@ -8,7 +8,7 @@ import {
 } from '@microsoft/sp-webpart-base';
 import { escape } from '@microsoft/sp-lodash-subset';
 
-import styles from './SvgGhostWebPart.module.scss';
+import './SvgGhostWebPart.css';
 import * as strings from 'SvgGhostWebPartStrings';
 
 //Import the special property pane controls from the PnP SPFx-Property-Controls package
@@ -37,7 +37,7 @@ export default class SvgGhostWebPartWebPart extends BaseClientSideWebPart<ISvgGh
     //This will draw the SVG version of the SharePoint PnP Ghost with custom colors
     // You can find the SVG file at https://github.com/thechriskent/PnPMan
     this.domElement.innerHTML = `
-      <div class="${ styles.svgGhost }">
+      <div class="svgGhostContainer">
         <svg
             xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
             xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -101,6 +101,7 @@ export default class SvgGhostWebPartWebPart extends BaseClientSideWebPart<ISvgGh
                     <dc:title>Chris Kent</dc:title>
                   </cc:Agent>
                 </dc:creator>
+                <dc:description>Modified by Nader Hadjebi</dc:description>
                 <dc:rights>
                   <cc:Agent>
                     <dc:title>Do Whatever</dc:title>
