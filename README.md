@@ -74,7 +74,7 @@ This Web Part illustrates the following concepts on top of the SharePoint Framew
 
 Copyright © 2026 Nader Hadjebi. All rights reserved.
 
-This repository is publicly available for viewing and evaluation. No permission is granted to copy, modify, distribute, sublicense, or create derivative works from this code without prior written permission from the author.
+-----
 
 ## Disclaimer
 
