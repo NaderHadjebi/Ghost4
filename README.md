@@ -74,7 +74,7 @@ This Web Part illustrates the following concepts on top of the SharePoint Framew
 
 Copyright © 2026 Nader Hadjebi.
 
-This project represents original work and contributions by Nader Hadjebi, including the upgrade from SPFx 1.13 to SPFx 1.23.2, migration from Gulp/Webpack to Heft, dependency updates, configuration updates, and legacy project fixes.
+This project represents original work, modifications and contributions by Nader Hadjebi, including the upgrade from SPFx 1.13 to SPFx 1.23.2, migration from Gulp/Webpack to Heft, dependency updates, configuration updates, and legacy project fixes.
 
 ## Disclaimer
 
